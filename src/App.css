@@ -1,0 +1,193 @@
+body {
+    background-color: #12161b;
+}
+.header1 {
+    background-color: #1F2833;
+}
+
+.title1 {
+    color: #45A29E
+}
+
+.subheader {
+    background-color: #898b8d;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.bag {
+    margin-top: 4px;
+    border-radius:17px;
+    background-color: #374c65;
+    padding: 10px;
+    height: 35px;
+}
+
+.collection {
+    border: 1px solid white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+    padding: 15px 20px; 
+    background-color: #1F2833;   
+}
+
+.card {
+    background-color: #898b8d;
+    color: #000;
+    font-family: fantasy;
+    border-radius: 20px;
+    height: 400px;
+    width: 400px;
+    padding-right: 30px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.imgCard {
+    border-radius: 20px;
+    height: 260px;
+    width: 230px;
+}
+
+.buttonCard {
+    padding: 2px;
+    border: none;
+    padding: 3px;
+    border-radius: 5px;
+    background-color: #374c65;
+    font-size: smaller;
+    cursor: pointer;
+}
+
+.footer1 {
+    background-color: #1F2833;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.icon {
+    color: #45A29E;
+}
+
+.socialMedia {
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    margin: 10px;
+    position: relative;
+    text-align: left;
+}
+
+.footerLinks {
+    display: flex;
+    gap: 10px;
+    text-align: end;
+    gap: 50px;
+}
+
+.divAbout {
+    background-color: #C2CAD0;
+    border-radius: 20px;
+}
+
+.h2About {
+    text-align: center;
+}
+
+.homeAbout {
+    text-align: end;
+    color:#1F2833;
+}
+
+.divContact {
+    background-color: #C2CAD0;
+    border-radius: 20px;
+}
+
+.h4Contact {
+    text-align: end;
+    color:#1F2833;
+}
+
+.cartBag {
+    background-color: #C2CAD0;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.divItemCart {
+    display: grid;
+    grid-template-columns: 20% 80%;
+    border: 1px solid #000;
+    border-radius: 20px;
+    margin: 5px;
+    background-color: #374c65;
+    font-family: serif;
+    
+}
+ .bagpic {
+    border: 1px solid black;
+    height: 150px;
+    width: 200px;
+    border-radius: 5px;
+    margin: 7px;
+ }
+
+ .checkoutDiv {
+    background-color: #C2CAD0;
+    border-radius: 20px;
+    text-align: center;
+    margin: 20px;
+ }
+
+ .paydiv {
+    margin: auto;
+    padding-top: 5px;
+    padding-left: 5px;
+    border-radius: 25px;
+    height: 500px;
+    width: 400px;
+    background-color: aliceblue;
+    text-align: center;
+    font-size: large;
+    margin-bottom: 0.5cm;
+ }
+
+ .form {
+    text-align: left;
+    padding: 20px 30px;
+    font-size: large;
+ }
+
+ input, select {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+ }
+
+ .payBtn {
+    background-color: #374c65;
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    cursor: pointer;
+ }
+
+ .divThankYou {
+    position: relative;;
+    background-color: #C2CAD0;
+    text-align: center;
+    border-radius: 20px;
+    margin-bottom: .5cm;
+ }
+
+ .favDiv {
+    display: flex;
+    gap: 20px;
+    height: 700px;
+    background-color: #374c65;
+    margin: 10px;
+ }

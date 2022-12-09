@@ -1,0 +1,58 @@
+{
+    "hoodies": [
+        {
+            "id": 1,
+            "name": "Polar Fleece Full-Zip SweatShirt",
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7ad343e71b3b436695f2ae8900df6a3a_9366/Polar_Fleece_Full-Zip_Sweatshirt_Grey_HG2076_01_laydown.jpg",
+            "price": 55,
+            "description": "⭐⭐⭐⭐",
+            "descriptionHeader": "AN ULTRA-COMFORTABLE FLEECE HOODIE MADE WITH RECYCLED MATERIALS."
+        },
+        {
+            "id": 2,
+            "name": "Camo Series Allover Print Hoodie",
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/eb500e282cae4da79f3dae7001000055_9366/Camo_Series_Allover_Print_Hoodie_Yellow_HK2804_01_laydown.jpg",
+            "price": 65,
+            "description": "⭐⭐⭐⭐",
+            "descriptionHeader": "A CAMO HOODIE FOR ALL-DAY COMFORT AND EVERYDAY EASE."
+        },
+        {
+            "id": 3,
+            "name": "Mahomes Hoodie",
+            "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/4350ad50d160438b8025ae610060d60c_9366/Mahomes_Hoodie_Red_HT5344_01_laydown.jpg",
+            "price": 75,
+            "description": "⭐⭐⭐⭐",
+            "descriptionHeader": "AN UNDERSTATED HOODIE WITH STAR APPEAL."
+        },
+        {
+            "id": 4,
+            "name": "Essentials Melange French Terry Hoodie",
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/55795880ed10494dac26aebb011bb29c_9366/Adicolor_Hoodie_Blue_HK7478_01_laydown.jpg",
+            "price": 85,
+            "description": "⭐⭐⭐⭐",
+            "descriptionHeader": "A HOODIE THAT'S ENDLESSLY WEARABLE AND WASHABLE, MADE IN PART WITH RECYCLED CONTENT."
+        },
+        {
+            "id": 5,
+            "name": "Team Issue Pullover Hoodie",
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2ba2ef70c07e46a7a945aeb40151bdb2_9366/Trae_Hoodie_Purple_HZ1209_01_laydown.jpg",
+            "price": 95,
+            "description": "⭐⭐⭐⭐",
+            "descriptionHeader": "A PULLOVER HOODIE WITH A ZIP POCKET, MADE WITH RECYCLED MATERIALS."
+        },
+        {
+            "id": 6,
+            "name": "Stadium Fleece Badge of Sport Hoodie",
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7462030994a24f22ae3eae9201435934_9366/Adicolor_Parley_Hoodie_(Gender_Neutral)_Beige_HM6751_01_laydown.jpg",
+            "price": 100,
+            "description": "⭐⭐⭐⭐⭐",
+            "descriptionHeader": "A COZY FLEECE HOODIE FOR TOTAL RELAXATION."
+        }
+    ],
+    "messages": [
+        {
+            "firstName": "cris"
+        }
+
+    ]
+}
